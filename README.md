@@ -16,13 +16,7 @@ This project is built with pure HTML, CSS, and JavaScript, and styled using Boot
 ## Table of Contents
 
 - [Features](#features)
-- [Demo](#demo)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Technologies](#technologies)
-- [Contributing](#contributing)
-- [License](#license)
-- [About the Author](#about-the-author)
 
 ---
 
@@ -33,12 +27,6 @@ This project is built with pure HTML, CSS, and JavaScript, and styled using Boot
 - **Fullscreen Modal:** Click "View Details & Map" to open a fullscreen modal showing comprehensive geolocation details along with an interactive map.
 - **100% Free & Open Source:** Uses free APIs (ip-api.com and OpenStreetMap) and libraries (Bootstrap, Leaflet) that require no registration.
 - **Bilingual Comments:** The source code includes bilingual (English and Italian) comments for added clarity.
-
----
-
-## Demo
-
-To see the live demo, clone the repository and run it locally on your machine. (Example: using PHP's built-in local server)
 
 ---
 
